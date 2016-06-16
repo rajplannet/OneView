@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite" verbose="1" >
+  <test name="Unit Level Test" >
+    <classes>
+       <class name="com.ngtest.one.testlogin" />
+<class name="com.ngtest.one.testoneview" />
+    </classes>
+  </test>
+  <test name="Regression Test">
+    <classes>
+      <class name="com.ngtest.one.OneviewLogin" />
+
+    </classes>
+  </test>
+</suite>
